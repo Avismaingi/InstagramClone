@@ -13,3 +13,6 @@
 .externalNativeBuild
 .cxx
 local.properties
+
+
+/app/src/main/java/com/example/instagramclone/StarterActivity.java
